@@ -1,6 +1,6 @@
 import React from 'react'
 import { UseAdminContext } from '../context/AdminContext'
-import { assets } from '../../../ourDoctors/src/assets/asset'
+import { assets } from '../assets/assets'
 import {useNavigate} from 'react-router-dom'
 import { UseDoctorContext } from '../context/DoctorContext'
 
